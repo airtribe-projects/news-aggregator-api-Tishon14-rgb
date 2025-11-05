@@ -261,4 +261,4 @@ news-aggregator-api/
 
 Tishon Chattopadhyay
 NetSuite & Backend Developer
-📧 YourEmail@example.com
+📧 chattopadhyay.tishon98@gmail.com
